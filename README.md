@@ -16,5 +16,5 @@ Al ingresar a la pagina dentro de la barra de navegacion se encuentran los sigui
       - 'Borrar': mediante este boton Ud. podra borrar el post, previamente le pedira que confirme dicha accion o 'Salir sin guardar' que lo rediccionara a la vista anterior.
   - About > mediante este boton Ud. puede acceder a la informacion de los desarrolladores del WebSite.
       - Debajo de cada foto de perfil podra encontrar dos botones con los iconos de un 'sobre' y el del sitio LinkedIn:
-        -Boton con icono de sobre: mediante este boton Ud. puede clickearlo y lo rediccionara a su software predeterminado para el envio de correos electronicos y ya le pondra el email del desarrollador para que le escriba un correo.
-        -Boton LinkedIN: mediante este boton Ud. puede acceder al perfil personal del desarrollador del website LinkedIN
+      - Boton con icono de sobre: mediante este boton Ud. puede clickearlo y lo rediccionara a su software predeterminado para el envio de correos electronicos y ya le pondra el email del desarrollador para que le escriba un correo.
+      - Boton LinkedIN: mediante este boton Ud. puede acceder al perfil personal del desarrollador del website LinkedIN
